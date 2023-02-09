@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializePayload", "SerializePayload\SerializePayload.csproj", "{636AB99D-235F-4304-B85A-184FD7CB561D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Types", "Types\Types.csproj", "{658E0C12-C2B7-4A63-87E3-07A73D434B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeserializePayload", "DeserializePayload\DeserializePayload.csproj", "{EC58FEA6-E17D-4250-9BD8-A5F3D70E41E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636AB99D-235F-4304-B85A-184FD7CB561D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636AB99D-235F-4304-B85A-184FD7CB561D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636AB99D-235F-4304-B85A-184FD7CB561D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636AB99D-235F-4304-B85A-184FD7CB561D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658E0C12-C2B7-4A63-87E3-07A73D434B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658E0C12-C2B7-4A63-87E3-07A73D434B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658E0C12-C2B7-4A63-87E3-07A73D434B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658E0C12-C2B7-4A63-87E3-07A73D434B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC58FEA6-E17D-4250-9BD8-A5F3D70E41E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC58FEA6-E17D-4250-9BD8-A5F3D70E41E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC58FEA6-E17D-4250-9BD8-A5F3D70E41E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC58FEA6-E17D-4250-9BD8-A5F3D70E41E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
